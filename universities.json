@@ -1,0 +1,878 @@
+[
+  {
+    "entity": "uom",
+    "university": "Academy of Design"
+  },
+  {
+    "entity": "uom",
+    "university": "Academy of language skills and dramatic art"
+  },
+  {
+    "entity": "usj",
+    "university": "Achievers Lanka Business School"
+  },
+  {
+    "entity": "uoc",
+    "university": "AIMS College"
+  },
+  {
+    "entity": "uok",
+    "university": "Alliance Française de Kotte"
+  },
+  {
+    "entity": "uor",
+    "university": "Alliance Francaise De Matara"
+  },
+  {
+    "entity": "uop",
+    "university": "Alliance Francaise Kandy"
+  },
+  {
+    "entity": "uoc",
+    "university": "Alpha Business School"
+  },
+  {
+    "entity": "uom",
+    "university": "AMDT School of Creativity"
+  },
+  {
+    "entity": "uop",
+    "university": "American College Kandy Campus"
+  },
+  {
+    "entity": "usj",
+    "university": "American College of Higher Education"
+  },
+  {
+    "entity": "uoc",
+    "university": "American Institute of Computer Technology"
+  },
+  {
+    "entity": "uok",
+    "university": "Ananda College - Colombo"
+  },
+  {
+    "entity": "usj",
+    "university": "ANC - American National College"
+  },
+  {
+    "entity": "uok",
+    "university": "Anula Vidyalaya Nugegoda"
+  },
+  {
+    "entity": "uor",
+    "university": "APEX Business academy matara"
+  },
+  {
+    "entity": "uoc",
+    "university": "APIDM (Asia Pacific institute of digital marketing)"
+  },
+  {
+    "entity": "uoc",
+    "university": "APIIT - Colombo "
+  },
+  {
+    "entity": "uop",
+    "university": "APIIT Kandy Campus"
+  },
+  {
+    "entity": "usj",
+    "university": "Aquinas University College"
+  },
+  {
+    "entity": "other",
+    "university": "Asian Institute of Technology"
+  },
+  {
+    "entity": "uoc",
+    "university": "Asian International School Colombo"
+  },
+  {
+    "entity": "uoc",
+    "university": "Aspire business school - Dehiwala"
+  },
+  {
+    "entity": "uoc",
+    "university": "ASPIRE College of Higher Education - Colombo"
+  },
+  {
+    "entity": "uoc",
+    "university": "ASPIRE College of Higher Education - Colombo"
+  },
+  {
+    "entity": "sliit",
+    "university": "Auston Campus Colombo"
+  },
+  {
+    "entity": "uok",
+    "university": "Australian College Business Technology Institute- ACBT"
+  },
+  {
+    "entity": "uop",
+    "university": "Australian College of Business and Technology (ACBT)- Kandy"
+  },
+  {
+    "entity": "uok",
+    "university": "Ave Maria Convent- Negombo"
+  },
+  {
+    "entity": "uop",
+    "university": "Badulla Central College, Badulla"
+  },
+  {
+    "entity": "uok",
+    "university": "Bandaranaike Centre for International Studies"
+  },
+  {
+    "entity": "sliit",
+    "university": "Bandaranaike International Diplomatic Training Institute"
+  },
+  {
+    "entity": "uok",
+    "university": "Bandarawela central college"
+  },
+  {
+    "entity": "uoc",
+    "university": "Benchmark Education Institute - Nugegoda"
+  },
+  {
+    "entity": "uom",
+    "university": "Bishops College - Colombo"
+  },
+  {
+    "entity": "usj",
+    "university": "BMS Campus"
+  },
+  {
+    "entity": "uop",
+    "university": "Brighten Language Center(Eng), Kurunegala"
+  },
+  {
+    "entity": "uoc",
+    "university": "Bristol Institute of Business Management"
+  },
+  {
+    "entity": "usj",
+    "university": "British College of Applied studies (BCAS)- Mount Campus"
+  },
+  {
+    "entity": "uop",
+    "university": "British College of Applied Studies(BCAS) - Kandy"
+  },
+  {
+    "entity": "usj",
+    "university": "British College of Applied Studies(BCAS)- Colombo"
+  },
+  {
+    "entity": "uok",
+    "university": "British Council"
+  },
+  {
+    "entity": "uop",
+    "university": "British Council Kandy"
+  },
+  {
+    "entity": "uor",
+    "university": "British council partner teaching center Matara"
+  },
+  {
+    "entity": "uoc",
+    "university": "British Informatics of Computer Technology"
+  },
+  {
+    "entity": "uom",
+    "university": "British School Colombo"
+  },
+  {
+    "entity": "uoc",
+    "university": "British Way English Academy"
+  },
+  {
+    "entity": "uop",
+    "university": "British way English Academy, Kurunegala"
+  },
+  {
+    "entity": "uok",
+    "university": "Britsh Council colombo"
+  },
+  {
+    "entity": "uoc",
+    "university": "CADD Centre Lanka"
+  },
+  {
+    "entity": "usj",
+    "university": "Cambridge Institute of Higher Education (CIHE)"
+  },
+  {
+    "entity": "uom",
+    "university": "Centrium Academics"
+  },
+  {
+    "entity": "uom",
+    "university": "CFPS Law School"
+  },
+  {
+    "entity": "usj",
+    "university": "Chartered Institute of Personnel Management"
+  },
+  {
+    "entity": "uok",
+    "university": "CINEC Campus"
+  },
+  {
+    "entity": "uop",
+    "university": "CIPM Kandy"
+  },
+  {
+    "entity": "uom",
+    "university": "City School of Architecture"
+  },
+  {
+    "entity": "sliit",
+    "university": "Colombo Academy of Hospitality Management-CAHM"
+  },
+  {
+    "entity": "uoc",
+    "university": "Colombo Institute of Research and Psychology"
+  },
+  {
+    "entity": "uoc",
+    "university": "Colombo Institute of Tourism and Hospitality Management "
+  },
+  {
+    "entity": "usj",
+    "university": "Colombo International Institute of Higher Education"
+  },
+  {
+    "entity": "uok",
+    "university": "Colombo International Nautical and Engineering College- CINEC"
+  },
+  {
+    "entity": "uoc",
+    "university": "Colombo School of Construction Technology Pita-kotte"
+  },
+  {
+    "entity": "usj",
+    "university": "Colombo South International College"
+  },
+  {
+    "entity": "uoc",
+    "university": "D.S. Senanayake Vidyalaya Colombo 7"
+  },
+  {
+    "entity": "uok",
+    "university": "Devi Balika Vidyalaya Colombo"
+  },
+  {
+    "entity": "uop",
+    "university": "Dharmaraja College Kandy"
+  },
+  {
+    "entity": "uom",
+    "university": "East Asian International School - Colombo"
+  },
+  {
+    "entity": "uom",
+    "university": "Edulink International Campus"
+  },
+  {
+    "entity": "uor",
+    "university": "Esoft - Galle"
+  },
+  {
+    "entity": "uop",
+    "university": "ESOFT Metro Campus - Kandy"
+  },
+  {
+    "entity": "usj",
+    "university": "ESOFT Metro Campus - Malabe"
+  },
+  {
+    "entity": "uor",
+    "university": "ESOFT Metro Campus Matara"
+  },
+  {
+    "entity": "uom",
+    "university": "Esol College"
+  },
+  {
+    "entity": "uop",
+    "university": "French & Leame Kandy"
+  },
+  {
+    "entity": "uoc",
+    "university": "Gateway College International- Rajagiriya"
+  },
+  {
+    "entity": "uop",
+    "university": "Gateway College Kandy"
+  },
+  {
+    "entity": "other",
+    "university": "Gateway College, Dehiwala"
+  },
+  {
+    "entity": "usj",
+    "university": "Genius School of  Professional Studies"
+  },
+  {
+    "entity": "uoc",
+    "university": "Global Institute of Project Management - Colombo"
+  },
+  {
+    "entity": "uok",
+    "university": "Goethe Institute"
+  },
+  {
+    "entity": "uok",
+    "university": "Good Shepherd convent Kandy"
+  },
+  {
+    "entity": "uop",
+    "university": "Hillwood College Kandy"
+  },
+  {
+    "entity": "uop",
+    "university": "Hindu Sansthan Srilanka (Hindi), Kurunegala"
+  },
+  {
+    "entity": "uok",
+    "university": "Holy Cross college - Gampaha"
+  },
+  {
+    "entity": "usj",
+    "university": "Holy Family Convent Colombo"
+  },
+  {
+    "entity": "sliit",
+    "university": "Horizon Campus"
+  },
+  {
+    "entity": "uor",
+    "university": "Horizon Campus Matara center"
+  },
+  {
+    "entity": "sliit",
+    "university": "Horizon International College- Malabe"
+  },
+  {
+    "entity": "usj",
+    "university": "Human Resource Management Institute"
+  },
+  {
+    "entity": "uop",
+    "university": "ICBT Campus Kandy"
+  },
+  {
+    "entity": "usj",
+    "university": "ICBT Colombo Campus"
+  },
+  {
+    "entity": "uor",
+    "university": "ICBT southern campus"
+  },
+  {
+    "entity": "uoc",
+    "university": "Icon business school - Colombo"
+  },
+  {
+    "entity": "uor",
+    "university": "IDM mathara campus"
+  },
+  {
+    "entity": "uop",
+    "university": "Imperial College Kandy"
+  },
+  {
+    "entity": "uop",
+    "university": "Imperial College of Business Studies"
+  },
+  {
+    "entity": "usj",
+    "university": "Imperial Institute of Higher Education (IIHE)"
+  },
+  {
+    "entity": "uok",
+    "university": "Informatics Institute of Technology- IIT"
+  },
+  {
+    "entity": "usj",
+    "university": "Institute for Accounting Studies"
+  },
+  {
+    "entity": "uom",
+    "university": "Institute of Chemistry Ceylon"
+  },
+  {
+    "entity": "uoc",
+    "university": "Institute of Management and Leadership - IML"
+  },
+  {
+    "entity": "usj",
+    "university": "Institute of Personel Management"
+  },
+  {
+    "entity": "uoc",
+    "university": "Institute of Software Engineering - IJSE"
+  },
+  {
+    "entity": "uoc",
+    "university": "Institute of Universal Higher studies"
+  },
+  {
+    "entity": "uop",
+    "university": "Internatioanl European campus"
+  },
+  {
+    "entity": "uoc",
+    "university": "KAATSU International University Malabe"
+  },
+  {
+    "entity": "uop",
+    "university": "Kandy Cambridge College"
+  },
+  {
+    "entity": "uop",
+    "university": "Kandy Girls’ High School"
+  },
+  {
+    "entity": "uop",
+    "university": "Kandy Language Center"
+  },
+  {
+    "entity": "uop",
+    "university": "Kingston English School, Kandy"
+  },
+  {
+    "entity": "uop",
+    "university": "Kingswood College Kandy"
+  },
+  {
+    "entity": "uom",
+    "university": "Kotelawala Defence University "
+  },
+  {
+    "entity": "usj",
+    "university": "Ladies college of Professional Studies"
+  },
+  {
+    "entity": "uoc",
+    "university": "Ladies’ College"
+  },
+  {
+    "entity": "usj",
+    "university": "Lanka Institute of Fashion Technology (LIFT)"
+  },
+  {
+    "entity": "uoc",
+    "university": "Lanka Nippon Biz Tech Institute"
+  },
+  {
+    "entity": "uom",
+    "university": "Law College"
+  },
+  {
+    "entity": "uom",
+    "university": "LEEDS International college Panadura"
+  },
+  {
+    "entity": "uoc",
+    "university": "Lifeway educational Institute"
+  },
+  {
+    "entity": "sliit",
+    "university": "Londontec City Campus"
+  },
+  {
+    "entity": "uoc",
+    "university": "Louis Preston School of Travel and Tourism"
+  },
+  {
+    "entity": "uom",
+    "university": "Lyceum College Panadura"
+  },
+  {
+    "entity": "uoc",
+    "university": "Lyceum College Rathnapura"
+  },
+  {
+    "entity": "uoc",
+    "university": "Lyceum International School - Nugegoda"
+  },
+  {
+    "entity": "uok",
+    "university": "Lyceum International School - Wattala"
+  },
+  {
+    "entity": "uok",
+    "university": "Mahamaya Girls college Kandy"
+  },
+  {
+    "entity": "uom",
+    "university": "Mahanama College Colombo"
+  },
+  {
+    "entity": "uor",
+    "university": "Mahinda College - Galle"
+  },
+  {
+    "entity": "uop",
+    "university": "Maliyadeva Balika Vidyalaya Kurunegala"
+  },
+  {
+    "entity": "uop",
+    "university": "Maliyadeva College Kurunegala"
+  },
+  {
+    "entity": "uoc",
+    "university": "Matrix institute of information technology"
+  },
+  {
+    "entity": "uok",
+    "university": "Mercury Institute of Management"
+  },
+  {
+    "entity": "uom",
+    "university": "Metropolitan College Mount Lavinia"
+  },
+  {
+    "entity": "uoc",
+    "university": "Mod'Art Paris Colombo"
+  },
+  {
+    "entity": "usj",
+    "university": "Musaeus College"
+  },
+  {
+    "entity": "uoc",
+    "university": "Nalanda College Colombo"
+  },
+  {
+    "entity": "uoc",
+    "university": "National Institute of Business Management (NIBM)"
+  },
+  {
+    "entity": "uok",
+    "university": "National Institute of Education (NIE)"
+  },
+  {
+    "entity": "uom",
+    "university": "Nawaloka College of Higher Studies"
+  },
+  {
+    "entity": "sliit",
+    "university": "NEXT campus- Colombo"
+  },
+  {
+    "entity": "uok",
+    "university": "NISD- National Institute of Social Development"
+  },
+  {
+    "entity": "uop",
+    "university": "Nivaya International, Kandy"
+  },
+  {
+    "entity": "uom",
+    "university": "North Shore College of Business & Technology"
+  },
+  {
+    "entity": "uom",
+    "university": "Northshore College of Business and Technology"
+  },
+  {
+    "entity": "other",
+    "university": "NSBM Green University"
+  },
+  {
+    "entity": "usj",
+    "university": "Open Arc Campus"
+  },
+  {
+    "entity": "uom",
+    "university": "Open University - Nawala"
+  },
+  {
+    "entity": "usj",
+    "university": "Openarc Campus"
+  },
+  {
+    "entity": "other",
+    "university": "Other"
+  },
+  {
+    "entity": "other",
+    "university": "Oxford College of Business"
+  },
+  {
+    "entity": "uoc",
+    "university": "Pace institute - Pannipitiya"
+  },
+  {
+    "entity": "usj",
+    "university": "PATHE Global Academy"
+  },
+  {
+    "entity": "uom",
+    "university": "Raffles Design Institute Colombo"
+  },
+  {
+    "entity": "uom",
+    "university": "Rajarata University of Sri Lanka"
+  },
+  {
+    "entity": "uok",
+    "university": "Rathnavali Balika Vidyalaya - Gampaha"
+  },
+  {
+    "entity": "uom",
+    "university": "Regent language school Negombo"
+  },
+  {
+    "entity": "uok",
+    "university": "Richmond College Galle"
+  },
+  {
+    "entity": "uom",
+    "university": "Riyoda Higher Education Centre"
+  },
+  {
+    "entity": "usj",
+    "university": "Royal College"
+  },
+  {
+    "entity": "uoc",
+    "university": "Royal Institute of Colombo"
+  },
+  {
+    "entity": "uop",
+    "university": "Royal International School, Kurunegala"
+  },
+  {
+    "entity": "uoc",
+    "university": "Russian centre for science and culture- Colombo"
+  },
+  {
+    "entity": "sliit",
+    "university": "S.Thomas’ College - Mount Lavinia"
+  },
+  {
+    "entity": "uom",
+    "university": "Sabaragamuwa University"
+  },
+  {
+    "entity": "usj",
+    "university": "Saegis  Campus"
+  },
+  {
+    "entity": "uoc",
+    "university": "Safetek Global Education Institute"
+  },
+  {
+    "entity": "uom",
+    "university": "Sakurai Aviation"
+  },
+  {
+    "entity": "uor",
+    "university": "Sanghamitta Balika Vidyalaya"
+  },
+  {
+    "entity": "uom",
+    "university": "SEI Campus - Matara"
+  },
+  {
+    "entity": "uom",
+    "university": "SEI Campus - Nugegoda"
+  },
+  {
+    "entity": "sliit",
+    "university": "Sirimavo Bandaranaike Vidyalaya - Colombo"
+  },
+  {
+    "entity": "uom",
+    "university": "Skills college of Technology"
+  },
+  {
+    "entity": "sliit",
+    "university": "SLIIT"
+  },
+  {
+    "entity": "sliit",
+    "university": "SLIIT Academy"
+  },
+  {
+    "entity": "uop",
+    "university": "SLIIT Kandy Campus"
+  },
+  {
+    "entity": "sliit",
+    "university": "SLIIT mathara campus"
+  },
+  {
+    "entity": "sliit",
+    "university": "SLIIT Metropolitan Campus"
+  },
+  {
+    "entity": "uok",
+    "university": "Southlands College Galle"
+  },
+  {
+    "entity": "uok",
+    "university": "Spectrum Institute of Science & Technology"
+  },
+  {
+    "entity": "uoc",
+    "university": "Sri Lanka Institute of Advanced Technological Education"
+  },
+  {
+    "entity": "uoc",
+    "university": "Sri Lanka Institute of Marketing"
+  },
+  {
+    "entity": "uor",
+    "university": "Sri Lanka Institute of Marketing (SLIM) - Matara"
+  },
+  {
+    "entity": "uom",
+    "university": "Sri Lanka Technological Campus"
+  },
+  {
+    "entity": "uom",
+    "university": "St. Bridget's College Colombo"
+  },
+  {
+    "entity": "usj",
+    "university": "St. George International Teacher Training Institute"
+  },
+  {
+    "entity": "uok",
+    "university": "St. Joseph's College Colombo"
+  },
+  {
+    "entity": "uom",
+    "university": "St. Lawrence College Colombo"
+  },
+  {
+    "entity": "uok",
+    "university": "St. Pauls' girls' school Milagiri"
+  },
+  {
+    "entity": "uok",
+    "university": "St. Thomas College Matale"
+  },
+  {
+    "entity": "uor",
+    "university": "St. Thomas College, Matara"
+  },
+  {
+    "entity": "other",
+    "university": "St.Peter’s College"
+  },
+  {
+    "entity": "uoc",
+    "university": "Stafford International College Colombo"
+  },
+  {
+    "entity": "uor",
+    "university": "Steiner College"
+  },
+  {
+    "entity": "sliit",
+    "university": "Sujatha Vidyalaya Matara"
+  },
+  {
+    "entity": "uoc",
+    "university": "Sujatha Vidyalaya Nugegoda"
+  },
+  {
+    "entity": "uom",
+    "university": "TEFL Training institute"
+  },
+  {
+    "entity": "uoc",
+    "university": "Thames College Nugegoda"
+  },
+  {
+    "entity": "usj",
+    "university": "The Overseas School Of Colombo"
+  },
+  {
+    "entity": "uom",
+    "university": "Thurstan College Colombo"
+  },
+  {
+    "entity": "uop",
+    "university": "Trinity College, Kandy"
+  },
+  {
+    "entity": "usj",
+    "university": "UNEX English Academy"
+  },
+  {
+    "entity": "uoc",
+    "university": "Universal College Lanka (UCL)- Colombo"
+  },
+  {
+    "entity": "uor",
+    "university": "University College of Matara"
+  },
+  {
+    "entity": "uoc",
+    "university": "University of Colombo"
+  },
+  {
+    "entity": "uop",
+    "university": "University of Jaffna"
+  },
+  {
+    "entity": "uok",
+    "university": "University of Kelaniya"
+  },
+  {
+    "entity": "uom",
+    "university": "University of Moratuwa"
+  },
+  {
+    "entity": "uop",
+    "university": "University of Peradeniya"
+  },
+  {
+    "entity": "uor",
+    "university": "University of Ruhuna"
+  },
+  {
+    "entity": "uor",
+    "university": "University of Ruhuna"
+  },
+  {
+    "entity": "usj",
+    "university": "University of Sri Jayawardenepura"
+  },
+  {
+    "entity": "uok",
+    "university": "Uva Wellassa University"
+  },
+  {
+    "entity": "uoc",
+    "university": "Vidura College - Hokandara"
+  },
+  {
+    "entity": "uop",
+    "university": "Vinex College Of English, Kurunegala"
+  },
+  {
+    "entity": "uoc",
+    "university": "Visakha Vidyalaya Colombo"
+  },
+  {
+    "entity": "usj",
+    "university": "Wayamba University of Sri Lanka"
+  },
+  {
+    "entity": "uoc",
+    "university": "Wisdom Business Academy"
+  },
+  {
+    "entity": "usj",
+    "university": "Zahira college Colombo"
+  }
+]
