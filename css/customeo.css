@@ -1,0 +1,121 @@
+.relative {
+    position: relative;
+}
+
+.ring1 {
+    z-index: -1;
+    position: absolute;
+    width: 30%;
+    bottom: 50px;
+    left: -10vw;
+}
+
+.ring2 {
+    z-index: -1;
+    position: absolute;
+    width: 50%;
+    top: 100px;
+    right: -10vw;
+    overflow: hidden;
+    transform: rotate(-90deg);
+}
+
+.z1 {
+    z-index: 100;
+}
+
+.ring1wrapper {
+    display: flex;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardstyle {
+    width: 750px;
+}
+
+.title {
+    color: #31ab8e;
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.btn-text {
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+}
+
+.softlogic {
+    width: 150px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.alogo {
+    width: 250px !important;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.eogsea {
+    width: 200px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.x {
+    width: 100px;
+}
+
+.logodiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+@media screen and (max-width: 800px) {
+    .alogo {
+        width: 200px !important;
+    }
+    .cardstyle {
+        width: 90vw;
+    }
+    .softlogic {
+        width: 60px;
+    }
+    .eogsea {
+        width: 150px;
+    }
+    .x {
+        width: 50px
+    }
+}
+
+@media screen and (max-width:600px) {
+    .title {
+        font-size: 23px;
+        padding-bottom: 30px;
+    }
+    .eogsea {
+        display: none;
+    }
+    .x {
+        display: none;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .btn-text {
+        font-family: 'Lato', sans-serif;
+        font-size: 13px;
+        line-height: 5px;
+    }
+}
