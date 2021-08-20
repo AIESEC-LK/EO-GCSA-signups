@@ -16,10 +16,9 @@ if (isset($_GET['entity'])) {
     $entity = $_GET['entity'];
 }
 
-// $base = "https://aiesec.lk/join/";
-$base = "http://127.0.0.1/";
+$base = "https://aiesec.lk/gsea/apply/";
 if ($_SERVER['SERVER_NAME'] == "localhost") {
-    $base = "https://localhost";
+    $base = "https://localhost/aiesec.lk/EO-GCSA-signups/";
 }
 
 
@@ -288,6 +287,7 @@ width:100%; height:100%; z-index:999; text-align: center; vertical-align: middle
                                     <option value="2">2nd year</option>
                                     <option value="3">3rd year</option>
                                     <option value="4">4th year</option>
+                                    <option value="other">Other</option>
                                 </select>
                                 <div class="select-dropdown"></div>
                             </div>
@@ -339,7 +339,7 @@ width:100%; height:100%; z-index:999; text-align: center; vertical-align: middle
     <script src="js/global.js"></script>
     <!-- recaptcha -->
     <!-- sitekey -->
-    <script src="https://www.google.com/recaptcha/api.js?render=6LfkmgwcAAAAAMhJdFApbeyITGg8stcEQVMb2Dn2"></script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6LdRCBAcAAAAAMfc5zMpEKswoILHaJJhfntmnfX8"></script>
 
 
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
@@ -376,7 +376,7 @@ width:100%; height:100%; z-index:999; text-align: center; vertical-align: middle
         e.preventDefault();
         grecaptcha.ready(function() {
             //sitekey
-            grecaptcha.execute('6LfkmgwcAAAAAMhJdFApbeyITGg8stcEQVMb2Dn2', {
+            grecaptcha.execute('6LdRCBAcAAAAAMfc5zMpEKswoILHaJJhfntmnfX8', {
                 action: 'submit'
             }).then(function(token) {
 
