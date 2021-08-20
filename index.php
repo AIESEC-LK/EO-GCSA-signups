@@ -284,14 +284,10 @@ width:100%; height:100%; z-index:999; text-align: center; vertical-align: middle
                             <div class="rs-select2 js-select-simple select--no-search">
                                 <select name="acyear" value="" required>
                                     <option disabled="disabled" selected="selected" hidden>Select year</option>
-                                    <option value="2015">2015</option>
-                                    <option value="2016">2016</option>
-                                    <option value="2017">2017</option>
-                                    <option value="2018">2018</option>
-                                    <option value="2019">2019</option>
-                                    <option value="2020">2020</option>
-                                    <option value="2021">2021</option>
-                                    <option value="2022">2022</option>
+                                    <option value="1">1st year</option>
+                                    <option value="2">2nd year</option>
+                                    <option value="3">3rd year</option>
+                                    <option value="4">4th year</option>
                                 </select>
                                 <div class="select-dropdown"></div>
                             </div>
